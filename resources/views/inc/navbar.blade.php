@@ -19,7 +19,6 @@
           <li><a class="nav-item nav-link" href="/about">About</a></li>
           <li><a class="nav-item nav-link" href="/services">Services</a></li>
           <li><a class="nav-item nav-link" href="/posts">Blog</a></li>
-          <li><a class="nav-item nav-link" href="/posts/create">Create Post</a></li>
         </ul>       
         <!-- Right Side Of Navbar -->
         <ul class="nav navbar-nav navbar-right">
